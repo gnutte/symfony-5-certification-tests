@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/config": "^5.2",
+        "symfony/yaml": "^5.2"
+    }
+}

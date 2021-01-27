@@ -1,0 +1,12 @@
+toto:
+  fields:
+    - key: firstname
+      type: string
+    - key: lastname
+      type: string
+    - key: email
+      type: string
+      constraints:
+        - name: required
+        - name: unique
+          enabled: false
