@@ -1,0 +1,6 @@
+main:
+  first: first_config
+  second: second_config
+  from: 2021-01-01
+  size: !php/const PHP_INT_SIZE
+  custom: !my_tag { foo: bar }
