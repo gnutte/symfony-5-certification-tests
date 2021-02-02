@@ -1,2 +1,5 @@
+## IDE configuration folders
 .idea/
+
+## Composer specific folders
 vendor/
